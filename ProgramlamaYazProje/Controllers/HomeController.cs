@@ -1,5 +1,4 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using ProgramlamaYazProje.Models;
 using System.Diagnostics;
 
 namespace ProgramlamaYazProje.Controllers
@@ -18,10 +17,7 @@ namespace ProgramlamaYazProje.Controllers
             return View();
         }
        
-        public IActionResult Privacy()
-        {
-            return View();
-        }
+        
 
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()

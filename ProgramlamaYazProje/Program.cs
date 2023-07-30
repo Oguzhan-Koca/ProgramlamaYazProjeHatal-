@@ -1,5 +1,5 @@
 using Microsoft.EntityFrameworkCore;
-using ProgramlamaYazProje_DataAccsess.Data;
+
 
 namespace ProgramlamaYazProje
 {
@@ -8,7 +8,7 @@ namespace ProgramlamaYazProje
         public static void Main(string[] args)
         {
             var builder = WebApplication.CreateBuilder(args);
-
+            
             // Add services to the container.
             builder.Services.AddDbContext<DatabaseContext>(opts =>
             {

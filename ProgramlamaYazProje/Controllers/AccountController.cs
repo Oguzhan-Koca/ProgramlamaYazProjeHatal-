@@ -4,8 +4,8 @@ using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using System.ComponentModel.DataAnnotations;
 using System.Security.Claims;
-using ProgramlamaYazProje_DataAccsess.Data;
-using ProgramlamaYazProje_Model.Models;
+
+
 using NETCore.Encrypt.Extensions;
 
 namespace ProgramlamaYazProje.Controllers

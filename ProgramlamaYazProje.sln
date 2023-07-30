@@ -5,10 +5,6 @@ VisualStudioVersion = 17.4.33205.214
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProgramlamaYazProje", "ProgramlamaYazProje\ProgramlamaYazProje.csproj", "{86261978-7672-4627-97AC-D6DE56E85142}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProgramlamaYazProje_DataAccsess", "ProgramlamaYazProje_DataAccsess\ProgramlamaYazProje_DataAccsess.csproj", "{0E6EE222-1338-4B89-8D04-1BC69EC09BB6}"
-EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProgramlamaYazProje_Model", "ProgramlamaYazProje_Model\ProgramlamaYazProje_Model.csproj", "{3673DCF6-6ED8-420F-AC13-BC0C6248FD9E}"
-EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "NewFolder1", "NewFolder1", "{7A3CB3A8-E30E-434E-92DE-C32665E7F91F}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebApplication99", "..\..\herkes-uyurken-kodlama-master\Part02_NET6-AspNetCoreMvc-CRUD-AjaxCRUD\WebApplication99_2\WebApplication99\WebApplication99.csproj", "{F67402C5-78DD-4DAA-BBA1-EEB5541B8EC7}"
@@ -23,14 +19,6 @@ Global
 		{86261978-7672-4627-97AC-D6DE56E85142}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{86261978-7672-4627-97AC-D6DE56E85142}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{86261978-7672-4627-97AC-D6DE56E85142}.Release|Any CPU.Build.0 = Release|Any CPU
-		{0E6EE222-1338-4B89-8D04-1BC69EC09BB6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{0E6EE222-1338-4B89-8D04-1BC69EC09BB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{0E6EE222-1338-4B89-8D04-1BC69EC09BB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{0E6EE222-1338-4B89-8D04-1BC69EC09BB6}.Release|Any CPU.Build.0 = Release|Any CPU
-		{3673DCF6-6ED8-420F-AC13-BC0C6248FD9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{3673DCF6-6ED8-420F-AC13-BC0C6248FD9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{3673DCF6-6ED8-420F-AC13-BC0C6248FD9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{3673DCF6-6ED8-420F-AC13-BC0C6248FD9E}.Release|Any CPU.Build.0 = Release|Any CPU
 		{F67402C5-78DD-4DAA-BBA1-EEB5541B8EC7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{F67402C5-78DD-4DAA-BBA1-EEB5541B8EC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F67402C5-78DD-4DAA-BBA1-EEB5541B8EC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
