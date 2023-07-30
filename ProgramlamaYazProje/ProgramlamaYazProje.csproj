@@ -1,0 +1,128 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Content Include="PhotoFolio\assets\css\main.css" />
+    <Content Include="PhotoFolio\assets\img\apple-touch-icon.png" />
+    <Content Include="PhotoFolio\assets\img\favicon.png" />
+    <Content Include="PhotoFolio\assets\img\gallery\gallery-1.jpg" />
+    <Content Include="PhotoFolio\assets\img\gallery\gallery-10.jpg" />
+    <Content Include="PhotoFolio\assets\img\gallery\gallery-11.jpg" />
+    <Content Include="PhotoFolio\assets\img\gallery\gallery-12.jpg" />
+    <Content Include="PhotoFolio\assets\img\gallery\gallery-13.jpg" />
+    <Content Include="PhotoFolio\assets\img\gallery\gallery-14.jpg" />
+    <Content Include="PhotoFolio\assets\img\gallery\gallery-15.jpg" />
+    <Content Include="PhotoFolio\assets\img\gallery\gallery-16.jpg" />
+    <Content Include="PhotoFolio\assets\img\gallery\gallery-2.jpg" />
+    <Content Include="PhotoFolio\assets\img\gallery\gallery-3.jpg" />
+    <Content Include="PhotoFolio\assets\img\gallery\gallery-4.jpg" />
+    <Content Include="PhotoFolio\assets\img\gallery\gallery-5.jpg" />
+    <Content Include="PhotoFolio\assets\img\gallery\gallery-6.jpg" />
+    <Content Include="PhotoFolio\assets\img\gallery\gallery-7.jpg" />
+    <Content Include="PhotoFolio\assets\img\gallery\gallery-8.jpg" />
+    <Content Include="PhotoFolio\assets\img\gallery\gallery-9.jpg" />
+    <Content Include="PhotoFolio\assets\img\portfolio\app-1.jpg" />
+    <Content Include="PhotoFolio\assets\img\portfolio\books-1.jpg" />
+    <Content Include="PhotoFolio\assets\img\portfolio\branding-1.jpg" />
+    <Content Include="PhotoFolio\assets\img\portfolio\product-1.jpg" />
+    <Content Include="PhotoFolio\assets\img\profile-img.jpg" />
+    <Content Include="PhotoFolio\assets\img\testimonials\testimonials-1.jpg" />
+    <Content Include="PhotoFolio\assets\img\testimonials\testimonials-2.jpg" />
+    <Content Include="PhotoFolio\assets\img\testimonials\testimonials-3.jpg" />
+    <Content Include="PhotoFolio\assets\img\testimonials\testimonials-4.jpg" />
+    <Content Include="PhotoFolio\assets\img\testimonials\testimonials-5.jpg" />
+    <Content Include="PhotoFolio\assets\js\main.js" />
+    <Content Include="PhotoFolio\assets\scss\Readme.txt" />
+    <Content Include="PhotoFolio\assets\vendor\aos\aos.cjs.js" />
+    <Content Include="PhotoFolio\assets\vendor\aos\aos.css" />
+    <Content Include="PhotoFolio\assets\vendor\aos\aos.esm.js" />
+    <Content Include="PhotoFolio\assets\vendor\aos\aos.js" />
+    <Content Include="PhotoFolio\assets\vendor\aos\aos.js.map" />
+    <Content Include="PhotoFolio\assets\vendor\bootstrap-icons\bootstrap-icons.css" />
+    <Content Include="PhotoFolio\assets\vendor\bootstrap-icons\bootstrap-icons.min.css" />
+    <Content Include="PhotoFolio\assets\vendor\bootstrap-icons\bootstrap-icons.scss" />
+    <Content Include="PhotoFolio\assets\vendor\bootstrap-icons\fonts\bootstrap-icons.woff" />
+    <Content Include="PhotoFolio\assets\vendor\bootstrap-icons\fonts\bootstrap-icons.woff2" />
+    <Content Include="PhotoFolio\assets\vendor\bootstrap\css\bootstrap-grid.css" />
+    <Content Include="PhotoFolio\assets\vendor\bootstrap\css\bootstrap-grid.css.map" />
+    <Content Include="PhotoFolio\assets\vendor\bootstrap\css\bootstrap-grid.min.css" />
+    <Content Include="PhotoFolio\assets\vendor\bootstrap\css\bootstrap-grid.min.css.map" />
+    <Content Include="PhotoFolio\assets\vendor\bootstrap\css\bootstrap-grid.rtl.css" />
+    <Content Include="PhotoFolio\assets\vendor\bootstrap\css\bootstrap-grid.rtl.css.map" />
+    <Content Include="PhotoFolio\assets\vendor\bootstrap\css\bootstrap-grid.rtl.min.css" />
+    <Content Include="PhotoFolio\assets\vendor\bootstrap\css\bootstrap-grid.rtl.min.css.map" />
+    <Content Include="PhotoFolio\assets\vendor\bootstrap\css\bootstrap-reboot.css" />
+    <Content Include="PhotoFolio\assets\vendor\bootstrap\css\bootstrap-reboot.css.map" />
+    <Content Include="PhotoFolio\assets\vendor\bootstrap\css\bootstrap-reboot.min.css" />
+    <Content Include="PhotoFolio\assets\vendor\bootstrap\css\bootstrap-reboot.min.css.map" />
+    <Content Include="PhotoFolio\assets\vendor\bootstrap\css\bootstrap-reboot.rtl.css" />
+    <Content Include="PhotoFolio\assets\vendor\bootstrap\css\bootstrap-reboot.rtl.css.map" />
+    <Content Include="PhotoFolio\assets\vendor\bootstrap\css\bootstrap-reboot.rtl.min.css" />
+    <Content Include="PhotoFolio\assets\vendor\bootstrap\css\bootstrap-reboot.rtl.min.css.map" />
+    <Content Include="PhotoFolio\assets\vendor\bootstrap\css\bootstrap-utilities.css" />
+    <Content Include="PhotoFolio\assets\vendor\bootstrap\css\bootstrap-utilities.css.map" />
+    <Content Include="PhotoFolio\assets\vendor\bootstrap\css\bootstrap-utilities.min.css" />
+    <Content Include="PhotoFolio\assets\vendor\bootstrap\css\bootstrap-utilities.min.css.map" />
+    <Content Include="PhotoFolio\assets\vendor\bootstrap\css\bootstrap-utilities.rtl.css" />
+    <Content Include="PhotoFolio\assets\vendor\bootstrap\css\bootstrap-utilities.rtl.css.map" />
+    <Content Include="PhotoFolio\assets\vendor\bootstrap\css\bootstrap-utilities.rtl.min.css" />
+    <Content Include="PhotoFolio\assets\vendor\bootstrap\css\bootstrap-utilities.rtl.min.css.map" />
+    <Content Include="PhotoFolio\assets\vendor\bootstrap\css\bootstrap.css" />
+    <Content Include="PhotoFolio\assets\vendor\bootstrap\css\bootstrap.css.map" />
+    <Content Include="PhotoFolio\assets\vendor\bootstrap\css\bootstrap.min.css" />
+    <Content Include="PhotoFolio\assets\vendor\bootstrap\css\bootstrap.min.css.map" />
+    <Content Include="PhotoFolio\assets\vendor\bootstrap\css\bootstrap.rtl.css" />
+    <Content Include="PhotoFolio\assets\vendor\bootstrap\css\bootstrap.rtl.css.map" />
+    <Content Include="PhotoFolio\assets\vendor\bootstrap\css\bootstrap.rtl.min.css" />
+    <Content Include="PhotoFolio\assets\vendor\bootstrap\css\bootstrap.rtl.min.css.map" />
+    <Content Include="PhotoFolio\assets\vendor\bootstrap\js\bootstrap.bundle.js" />
+    <Content Include="PhotoFolio\assets\vendor\bootstrap\js\bootstrap.bundle.js.map" />
+    <Content Include="PhotoFolio\assets\vendor\bootstrap\js\bootstrap.bundle.min.js" />
+    <Content Include="PhotoFolio\assets\vendor\bootstrap\js\bootstrap.bundle.min.js.map" />
+    <Content Include="PhotoFolio\assets\vendor\bootstrap\js\bootstrap.esm.js" />
+    <Content Include="PhotoFolio\assets\vendor\bootstrap\js\bootstrap.esm.js.map" />
+    <Content Include="PhotoFolio\assets\vendor\bootstrap\js\bootstrap.esm.min.js" />
+    <Content Include="PhotoFolio\assets\vendor\bootstrap\js\bootstrap.esm.min.js.map" />
+    <Content Include="PhotoFolio\assets\vendor\bootstrap\js\bootstrap.js" />
+    <Content Include="PhotoFolio\assets\vendor\bootstrap\js\bootstrap.js.map" />
+    <Content Include="PhotoFolio\assets\vendor\bootstrap\js\bootstrap.min.js" />
+    <Content Include="PhotoFolio\assets\vendor\bootstrap\js\bootstrap.min.js.map" />
+    <Content Include="PhotoFolio\assets\vendor\glightbox\css\glightbox.css" />
+    <Content Include="PhotoFolio\assets\vendor\glightbox\css\glightbox.min.css" />
+    <Content Include="PhotoFolio\assets\vendor\glightbox\css\plyr.css" />
+    <Content Include="PhotoFolio\assets\vendor\glightbox\css\plyr.min.css" />
+    <Content Include="PhotoFolio\assets\vendor\glightbox\js\glightbox.js" />
+    <Content Include="PhotoFolio\assets\vendor\glightbox\js\glightbox.min.js" />
+    <Content Include="PhotoFolio\assets\vendor\swiper\swiper-bundle.min.css" />
+    <Content Include="PhotoFolio\assets\vendor\swiper\swiper-bundle.min.js" />
+    <Content Include="PhotoFolio\assets\vendor\swiper\swiper-bundle.min.js.map" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="6.0.20" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="6.0.20" />
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="6.0.15" />
+    <PackageReference Include="NETCore.Encrypt" Version="2.1.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ProgramlamaYazProje_DataAccsess\ProgramlamaYazProje_DataAccsess.csproj" />
+    <ProjectReference Include="..\ProgramlamaYazProje_Model\ProgramlamaYazProje_Model.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Update="wwwroot\assets\vendor\bootstrap-icons\bootstrap-icons.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Views\About\NewFolder\" />
+  </ItemGroup>
+
+</Project>
